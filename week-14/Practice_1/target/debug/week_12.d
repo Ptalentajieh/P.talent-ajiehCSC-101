@@ -1,0 +1,1 @@
+C:\Users\talen\OneDrive\Documents\GitHub\P.talent-ajiehCSC-101\week-14\Practice_1\target\debug\week_12.exe: C:\Users\talen\OneDrive\Documents\GitHub\P.talent-ajiehCSC-101\week-14\Practice_1\src\main.rs
